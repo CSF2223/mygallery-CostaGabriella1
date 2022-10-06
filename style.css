@@ -1,6 +1,6 @@
 /*
 Color Palette: 
-background color: C36A2D  
+background color: AA530E  
 font color:   E2C275       
 secondary color:   EADCA6
 tertiary color:    FBFBFB
@@ -17,9 +17,9 @@ header {
     margin: 0 4rem;
     letter-spacing: 0.8rem;
     text-align: center;
-    border-bottom: 1px solid #FBFBFB;
-    border-right: 1px solid #FBFBFB;
-    border-left: 1px solid #FBFBFB;
+    border-bottom: 1px solid #E2C275;
+    border-right: 1px solid #E2C275;
+    border-left: 1px solid #E2C275;
     padding: 0.5rem;
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
     text-transform: uppercase;
@@ -27,7 +27,7 @@ header {
 }
 
 body {
-    background-color: #C36A2D;
+    background-color: #AA530E;
     color: #E2C275;   
     font-family: 'Acme', sans-serif;
     margin: 0;
@@ -58,7 +58,7 @@ p {
 
 .imageCard a {
     text-decoration: none;
-    color: #FBFBFB;
+    color: #E2C275;
 }
 
 .cardText {
