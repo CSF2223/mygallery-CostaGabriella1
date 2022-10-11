@@ -1,6 +1,6 @@
 /*
 Color Palette: 
-background color: AA530E  
+background color: CA965C  
 font color:   E2C275       
 secondary color:   EADCA6
 tertiary color:    FBFBFB
@@ -17,18 +17,19 @@ header {
     margin: 0 4rem;
     letter-spacing: 0.8rem;
     text-align: center;
-    border-bottom: 1px solid #E2C275;
-    border-right: 1px solid #E2C275;
-    border-left: 1px solid #E2C275;
+    border-bottom: 5px solid #876445;
+    border-right: 5px solid #876445;
+    border-left: 5px solid #876445;
+    border-style: dotted;
     padding: 0.5rem;
-    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.4);
     text-transform: uppercase;
     font-size: 1.1rem;
 }
 
 body {
-    background-color: #AA530E;
-    color: #E2C275;   
+    background-color: #CA965C;
+    color: #876445;   
     font-family: 'Acme', sans-serif;
     margin: 0;
 }
@@ -83,6 +84,6 @@ p {
     }
     
     .imageCard {
-        max-width: 26%;
+        max-width: 28%;
     }
 }
